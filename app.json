@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "BMIcalculator",
-    "slug": "BMIcalculator",
+    "name": "clinic_app",
+    "slug": "clinic_app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
